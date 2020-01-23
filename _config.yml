@@ -1,7 +1,7 @@
 # Site settings
 title: "gjuniioor"
 bye_message: "Thx!"
-baseurl: "/page/"
+baseurl: "/"
 url: "https://unch.pw"
 
 # Header settings
