@@ -1,17 +1,16 @@
 # Site settings
-title: "gjuniioor"
+title: "Unch !!"
 bye_message: "Thx!"
-baseurl: "/"
 url: "https://unch.pw"
 
 # Header settings
 nick: "sahabatpakpos"
 mail:
     domain: "unch"
-    ext: "ch"
+    ext: "pw"
 source_code:
     server: "github.com"
-    nick: "gjuniioor"
+    nick: "sahabatpakpos"
 blog:
     server: "github.com"
     nick: "sahabatpakpos"
