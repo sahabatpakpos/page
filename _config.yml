@@ -1,1 +1,20 @@
-theme: jekyll-theme-midnight
+# Site settings
+title: "gjuniioor"
+bye_message: "Thx!"
+baseurl: "/page/"
+url: "https://unch.pw"
+
+# Header settings
+nick: "sahabatpakpos"
+mail:
+    domain: "unch"
+    ext: "ch"
+source_code:
+    server: "github.com"
+    nick: "gjuniioor"
+blog:
+    server: "github.com"
+    nick: "sahabatpakpos"
+# Build settings
+markdown: kramdown
+permalink: /:categories/:title/
