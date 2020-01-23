@@ -2,25 +2,8 @@
 layout: content
 ---
 
-# Clyell
+Olá!
 
-[https://gjuniioor.github.io/clyell](https://gjuniioor.github.io/clyell)
+Eu sou gjuniioor. Curto algumas coisas sobre computadores, programação, linux, servidores e segurança. Não necessariamente nessa ordem.
 
-### About
-
-It's just one more [jekyll](https://github.com/jekyll/jekyll) theme. Maybe it's has some appearance like a linux console. :)
-
-[Bootstrap](http://getbootstrap.com/) was added to turn responsible. Thanks, [@magnunleno](https://github.com/magnunleno).
-
-### Features
-
-- [x] Google analytics
-- [x] Disqus
-- [x] Responsible
-- [x] Highlights for code
-
-### Characteristics
-
-- [x] Customized (and nice :P) 404 page
-- [x] Simple
-- [x] Friendly to read
+Pois bem, aproveite essas páginas. Se tiver algum comentário a fazer, sinta-se livre para fazê-lo, seja via comentário ou e-mail.
