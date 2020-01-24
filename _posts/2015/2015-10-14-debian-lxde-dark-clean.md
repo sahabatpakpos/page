@@ -10,9 +10,9 @@ tags:
     - debian
 ---
 
-![Print]({{ site.baseurl }}images/posts/2015/04.png)
+![Print](/{{ site.baseurl }}images/posts/2015/04.png)
 
-Veja o print maior clicando <a title="ScreenShot" href="/{{ site.baseurl }}images/posts/2015/04.png" target="_blank">aqui</a>.
+Veja o print maior clicando <a title="ScreenShot" href="//{{ site.baseurl }}images/posts/2015/04.png" target="_blank">aqui</a>.
 
 *Icon Patch: <a href="http://djany.deviantart.com/art/Gnome-Buuf-Deuce-1-1-R8-73339997" target="_blank">http://djany.deviantart.com/art/Gnome-Buuf-Deuce-1-1-R8-73339997</a>
 
@@ -23,6 +23,6 @@ VLC Skin: <a href="http://gnome-look.org/content/show.php/Dark+Mystique+v1.0?con
 Vim Theme: <a href="https://github.com/lyxell/pride.vim" target="_blank">https://github.com/lyxell/pride.vim</a>
 
 
-*: Ícones também usados <a href="/{{ site.baseurl }}arch-linux-xfce-dark-clean/" >aqui</a>.
+*: Ícones também usados <a href="//{{ site.baseurl }}arch-linux-xfce-dark-clean/" >aqui</a>.
 
-[wallpaper]: {{ site.baseurl }}images/posts/2015/wallpaper02.jpg
+[wallpaper]: /{{ site.baseurl }}images/posts/2015/wallpaper02.jpg

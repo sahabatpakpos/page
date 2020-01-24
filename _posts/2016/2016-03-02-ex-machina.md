@@ -37,7 +37,7 @@ Até mais ver, pessoal!
 
 > ***OFF:*** Está achando que tem post-it demais em seu kanban? Sinta-se feliz:
 
-![Cena do filme com parede lotada de post-it]({{ site.baseurl }}images/posts/2016/14.jpg)
+![Cena do filme com parede lotada de post-it](/{{ site.baseurl }}images/posts/2016/14.jpg)
 
 ## Links
 

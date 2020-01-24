@@ -11,7 +11,7 @@ tags:
 ---
 
 <div style="text-align: center;">
-	<img src="{{ site.baseurl }}images/posts/2016/20.png" style="width:50%;" />
+	<img src="/{{ site.baseurl }}images/posts/2016/20.png" style="width:50%;" />
 </div>
 <br />
 
@@ -46,22 +46,22 @@ Vlw, pessoal! Tudo indica que haverão mais conteúdo sobre [Docker \[3\]][3] aq
 ## Links
 
 ~~~
-[0]: {{ site.baseurl }}books/http-succinctly/
+[0]: /{{ site.baseurl }}books/http-succinctly/
 [1]: http://techfree.com.br
 [2]: https://pt.wikipedia.org/wiki/DevOps
-[3]: {{ site.baseurl }}category#docker
-[4]: {{ site.baseurl }}category#linux
+[3]: /{{ site.baseurl }}category#docker
+[4]: /{{ site.baseurl }}category#linux
 [5]: https://m.do.co/c/cc1f5d13e2cd
 [6]: https://leanpub.com/dockerparadesenvolvedores
 [7]: https://www.youtube.com/channel/UCPNrIITPNFFLmcU3VfoKuGQ
 [8]: http://techfree.com.br/category/docker/
 ~~~
 
-[0]: {{ site.baseurl }}books/http-succinctly/
+[0]: /{{ site.baseurl }}books/http-succinctly/
 [1]: http://techfree.com.br
 [2]: https://pt.wikipedia.org/wiki/DevOps
-[3]: {{ site.baseurl }}category#docker
-[4]: {{ site.baseurl }}category#linux
+[3]: /{{ site.baseurl }}category#docker
+[4]: /{{ site.baseurl }}category#linux
 [5]: https://m.do.co/c/cc1f5d13e2cd
 [6]: https://leanpub.com/dockerparadesenvolvedores
 [7]: https://www.youtube.com/channel/UCPNrIITPNFFLmcU3VfoKuGQ

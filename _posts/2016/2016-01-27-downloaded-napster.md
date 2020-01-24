@@ -34,9 +34,9 @@ Podemos ver então que tanto tempo atrás, mesmo com o Napster sendo atacado e f
 ## Links
 
 ~~~
-[0]: {{ site.url }}{{ site.baseurl }}movies/people-power/
-[1]: {{ site.url }}{{ site.baseurl }}movies/the-internet-own-boy/
+[0]: {{ site.url }}/{{ site.baseurl }}movies/people-power/
+[1]: {{ site.url }}/{{ site.baseurl }}movies/the-internet-own-boy/
 ~~~
 
-[0]: {{ site.url }}{{ site.baseurl }}movies/people-power/
-[1]: {{ site.url }}{{ site.baseurl }}movies/the-internet-own-boy/
+[0]: {{ site.url }}/{{ site.baseurl }}movies/people-power/
+[1]: {{ site.url }}/{{ site.baseurl }}movies/the-internet-own-boy/

@@ -11,7 +11,7 @@ tags:
     - livros
 ---
 
-![Capa da revista "Manual do Hacker ed. 01"]({{ site.baseurl }}images/posts/2016/08.jpg)
+![Capa da revista "Manual do Hacker ed. 01"](/{{ site.baseurl }}images/posts/2016/08.jpg)
 
 Git é uma coisa ótima! Disso todo mundo sabe. Github também é muito bacana. Mais uma informação que todo mundo sabe. O que pouca gente sabe é fazer uso da quantidade de features que o Github provê para seus usuários. Isso o livro mostra muitíssimo bem.
 

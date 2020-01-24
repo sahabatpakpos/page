@@ -82,7 +82,7 @@ A sigla é formada pelas palavras *Virtual Private Network* (que traduzido seria
 
 Ou seja, o caminho que antes era *Você -> Provedor -> WhatsApp* agora seria *Você -> Provedor -> VPN -> WhatsApp*. O fato de essa técnica funcionar para fazer o bypass é por conta da criptografia com o tunelamento. Os pacotes seriam "cobertos" por um túnel, então o provedor teria acesso apenas a ler os dados de fora desse túnel, não sabendo que os pacotes são referentes ao WhatsApp, não teria como bloquear. Veja essa imagem para exemplificar melhor:
 
-[![Tunelamento VPN. Fonte: gta.ufrj.br]({{ site.baseurl }}images/posts/2015/09.png "Tunelamento VPN. Fonte: gta.ufrj.br")]({{ site.baseurl }}images/posts/2015/09.png)
+[![Tunelamento VPN. Fonte: gta.ufrj.br](/{{ site.baseurl }}images/posts/2015/09.png "Tunelamento VPN. Fonte: gta.ufrj.br")](/{{ site.baseurl }}images/posts/2015/09.png)
 
 O problema acontece quando as pessoas utilizam de APPs e redes que nunca nem sequer pesquisaram sobre e confiam neles para tal coisa. Saiba que no momento em que se utiliza a VPN, todo seu tráfego vai passar por ela. Se entrar no Instagram, Facebook, em algum Internet Banking, tudo vai para eles. E se a criptografia for apenas uma fachada? E se eles ficarem de olho em seus dados? E se??
 
@@ -107,7 +107,7 @@ Espero ter tratado, no mínimo, de forma que deixe possibilidades para mais pesq
 [7] - http://g1.globo.com/sao-paulo/eleicoes/2014/noticia/2014/10/candidatos-usam-whatsapp-para-fazer-propaganda-eleitoral.html
 [8] - http://www.whatsapp-propaganda.com.br/
 [9] - http://lifehacker.com/hola-better-internet-sells-your-bandwidth-turning-its-1707496872
-[10] - {{ site.url }}{{ site.baseurl }}feed/
+[10] - {{ site.url }}/{{ site.baseurl }}feed/
 ~~~
 
 [0]: http://www.ibope.com.br/pt-br/noticias/Paginas/WhatsApp-e-o-aplicativo-mais-usado-pelos-internautas-brasileiros.aspx
@@ -120,4 +120,4 @@ Espero ter tratado, no mínimo, de forma que deixe possibilidades para mais pesq
 [7]: http://g1.globo.com/sao-paulo/eleicoes/2014/noticia/2014/10/candidatos-usam-whatsapp-para-fazer-propaganda-eleitoral.html
 [8]: http://www.whatsapp-propaganda.com.br/
 [9]: http://lifehacker.com/hola-better-internet-sells-your-bandwidth-turning-its-1707496872
-[10]: {{ site.url }}{{ site.baseurl }}feed/
+[10]: {{ site.url }}/{{ site.baseurl }}feed/

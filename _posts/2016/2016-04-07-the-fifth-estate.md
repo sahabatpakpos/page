@@ -39,10 +39,10 @@ Até mais ver!!
 [0]: https://lampiaosec.github.io/virada-hacker/
 [1]: http://lampiaosec.github.io/virada-hacker/2016/04/02/diario-de-bordo/#cine-hacker
 [2]: https://wikileaks.org/
-[3]: {{ site.baseurl }}books/cypherpunks/
+[3]: /{{ site.baseurl }}books/cypherpunks/
 ~~~
 
 [0]: https://lampiaosec.github.io/virada-hacker/
 [1]: http://lampiaosec.github.io/virada-hacker/2016/04/02/diario-de-bordo/#cine-hacker
 [2]: https://wikileaks.org/
-[3]: {{ site.baseurl }}books/cypherpunks/
+[3]: /{{ site.baseurl }}books/cypherpunks/

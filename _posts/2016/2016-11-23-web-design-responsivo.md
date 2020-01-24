@@ -11,7 +11,7 @@ tags:
 ---
 
 <div style="text-align: center;">
-	<img src="{{ site.baseurl }}images/posts/2016/28.png" style="width:50%;" />
+	<img src="/{{ site.baseurl }}images/posts/2016/28.png" style="width:50%;" />
 </div>
 <br />
 
@@ -30,13 +30,13 @@ No mais, até mais ver, pessoALL! Bons estudos!
 ## Links
 
 ~~~
-[0]: {{ site.baseurl }}books/comecando-com-linux
+[0]: /{{ site.baseurl }}books/comecando-com-linux
 [1]: https://casadocodigo.com.br
 [2]: https://www.casadocodigo.com.br/products/livro-web-design-responsivo
 [3]: https://github.com/tarciozemel
 ~~~
 
-[0]: {{ site.baseurl }}books/comecando-com-linux
+[0]: /{{ site.baseurl }}books/comecando-com-linux
 [1]: https://casadocodigo.com.br
 [2]: https://www.casadocodigo.com.br/products/livro-web-design-responsivo
 [3]: https://github.com/tarciozemel

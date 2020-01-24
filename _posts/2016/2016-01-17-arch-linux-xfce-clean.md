@@ -10,7 +10,7 @@ tags:
     - screenshot
 ---
 
-![Screenshot]({{ site.baseurl }}images/posts/2016/02.jpg)
+![Screenshot](/{{ site.baseurl }}images/posts/2016/02.jpg)
 
 > Caso queira ver o print maior, [clica aqui \[0\]][0].
 
@@ -33,11 +33,11 @@ Dessa vez decidi fazer algo mais leve e menos *dark* como normalmente faço. Seg
 ## Links
 
 ~~~
-[0]: {{ site.baseurl }}images/posts/2016/02.jpg
-[1]: {{ site.baseurl }}images/posts/2016/03.jpg
+[0]: /{{ site.baseurl }}images/posts/2016/02.jpg
+[1]: /{{ site.baseurl }}images/posts/2016/03.jpg
 [2]: http://gnome-look.org/content/show.php/ComixCursors?content=32627
 ~~~
 
-[0]: {{ site.baseurl }}images/posts/2016/02.jpg
-[1]: {{ site.baseurl }}images/posts/2016/03.jpg
+[0]: /{{ site.baseurl }}images/posts/2016/02.jpg
+[1]: /{{ site.baseurl }}images/posts/2016/03.jpg
 [2]: http://gnome-look.org/content/show.php/ComixCursors?content=32627

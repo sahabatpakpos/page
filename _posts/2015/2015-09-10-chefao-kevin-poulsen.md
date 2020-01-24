@@ -11,7 +11,7 @@ tags:
     - historia real
 ---
 
-![Print]({{ site.baseurl }}images/posts/2015/03.jpg)
+![Print](/{{ site.baseurl }}images/posts/2015/03.jpg)
 
 Há um bom tempo atrás meu amigo André Luna - criador do site <a href="http://shellzen.net/" target="_blank">ShellZen</a> - me recomendou a leitura desse livro. Ele até tem um post falando sobre <a href="http://shellzen.net/o-senhor-de-todas-as-fraudes/" target="_blank">aqui</a>. A princípio, fiquei com pé atrás sobre o assunto (não era algo que me empolgava), mas quando surgiu a oportunidade, resolvi averiguar e peguei-o.
 

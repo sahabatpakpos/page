@@ -43,19 +43,19 @@ Até a próxima, pessoas!!
 ## Links
 
 ~~~
-[0]: {{ site.url }}{{ site.baseurl }}movies
-[1]: {{ site.url }}{{ site.baseurl }}movies/ex-machina/
-[2]: {{ site.url }}{{ site.baseurl }}movies/blackhat/
+[0]: {{ site.url }}/{{ site.baseurl }}movies
+[1]: {{ site.url }}/{{ site.baseurl }}movies/ex-machina/
+[2]: {{ site.url }}/{{ site.baseurl }}movies/blackhat/
 [3]: https://cienciahacker.ch
 [4]: https://blog.cienciahacker.ch/entretenimento-hacker-1-filmes-e-documentarios/
 [5]: https://github.com/cienciahacker/index/blob/master/matrix/arquivos/filmes.md
-[6]: {{ site.url }}{{ site.baseurl }}movies/ex-machina/
+[6]: {{ site.url }}/{{ site.baseurl }}movies/ex-machina/
 ~~~
 
-[0]: {{ site.url }}{{ site.baseurl }}movies
-[1]: {{ site.url }}{{ site.baseurl }}movies/ex-machina/
-[2]: {{ site.url }}{{ site.baseurl }}movies/blackhat/
+[0]: {{ site.url }}/{{ site.baseurl }}movies
+[1]: {{ site.url }}/{{ site.baseurl }}movies/ex-machina/
+[2]: {{ site.url }}/{{ site.baseurl }}movies/blackhat/
 [3]: https://cienciahacker.ch
 [4]: https://blog.cienciahacker.ch/entretenimento-hacker-1-filmes-e-documentarios/
 [5]: https://github.com/cienciahacker/index/blob/master/matrix/arquivos/filmes.md
-[6]: {{ site.url }}{{ site.baseurl }}movies/ex-machina/
+[6]: {{ site.url }}/{{ site.baseurl }}movies/ex-machina/

@@ -24,7 +24,7 @@ O problema é que isso mexe um pouco com a sintaxe do markdown. Antes eu utiliza
 
 Menos mal que ainda estão dando suporte ao `redcarpet` e portanto vocês não viram a alteração que causava. Como sou brother, vou deixar aqui um print:
 
-![Print da quebra de layout]({{ site.baseurl }}images/posts/2016/09.png)
+![Print da quebra de layout](/{{ site.baseurl }}images/posts/2016/09.png)
 
 Eis o impasse: atualizar todos arquivos para a nova sintaxe.
 
@@ -82,20 +82,20 @@ Então indica que é para editar os arquivos de determinado lugar. Nesse caso, d
 
 Pronto! Olha um print da mesma página que tirei acima após rodar o comando:
 
-![Print resolvido!]({{ site.baseurl }}images/posts/2016/10.png)
+![Print resolvido!](/{{ site.baseurl }}images/posts/2016/10.png)
 
 > Até mais ver, pessoal! Tomara que esse tipo de post seja de ajuda a todos :P
 
 ## Links
 
 ~~~
-[0]: {{ site.url }}{{ site.baseurl }}blog/python-diferenca-operadores/
+[0]: {{ site.url }}/{{ site.baseurl }}blog/python-diferenca-operadores/
 [1]: https://github.com/gjuniioor/gjuniioor.github.io/commit/141ab6bdfc50a204cfa76a2b1c804ab184620ca8
 [2]: https://help.github.com/articles/updating-your-markdown-processor-to-kramdown/
 [3]: https://github.com/gjuniioor/gjuniioor.github.io/tree/master/_posts
 ~~~
 
-[0]: {{ site.url }}{{ site.baseurl }}blog/python-diferenca-operadores/
+[0]: {{ site.url }}/{{ site.baseurl }}blog/python-diferenca-operadores/
 [1]: https://github.com/gjuniioor/gjuniioor.github.io/commit/141ab6bdfc50a204cfa76a2b1c804ab184620ca8
 [2]: https://help.github.com/articles/updating-your-markdown-processor-to-kramdown/
 [3]: https://github.com/gjuniioor/gjuniioor.github.io/tree/master/_posts

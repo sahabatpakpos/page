@@ -10,7 +10,7 @@ tags:
 ---
 
 <div style="text-align: center;">
-	<img src="{{ site.baseurl }}images/posts/2016/24.png" style="width:50%;" />
+	<img src="/{{ site.baseurl }}images/posts/2016/24.png" style="width:50%;" />
 </div>
 <br />
 

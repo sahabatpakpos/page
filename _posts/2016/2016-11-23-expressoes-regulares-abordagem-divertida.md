@@ -11,7 +11,7 @@ tags:
 ---
 
 <div style="text-align: center;">
-	<img src="{{ site.baseurl }}images/posts/2016/25.jpg" style="width:50%;" />
+	<img src="/{{ site.baseurl }}images/posts/2016/25.jpg" style="width:50%;" />
 </div>
 <br />
 
@@ -20,7 +20,7 @@ Bem, acredito que muito que provavelmente sabe quem é o [Aurélio \[0\]][0]. Se
 O livro sobre [expressões regulares \[1\]][1] do Aurélio é realmente muito bom! A linguagem é muito boa, bem divertida. Isso é algo que ele se orgulha e tem como muito diferencial. A forma como o livro foi escrita mostra isso de cara para o leitor. Ainda mais para mim, que minha cópia do livro veio com algo a mais :P :
 
 <div style="text-align: center;">
-    <img src="{{ site.baseurl }}images/posts/2016/26.jpg">
+    <img src="/{{ site.baseurl }}images/posts/2016/26.jpg">
 </div>
 
 O livro aborda o básico de regex até features mais avançadas e novas dessa tecnologia. Você sabia que dá pra fazer condicionais com expressões regulares??? Pois é, isso aparece no livro. :)

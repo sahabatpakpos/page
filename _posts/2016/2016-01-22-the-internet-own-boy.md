@@ -13,7 +13,7 @@ tags:
     - internet
 ---
 
-![Aaron]({{ site.baseurl }}images/posts/2016/04.jpg)
+![Aaron](/{{ site.baseurl }}images/posts/2016/04.jpg)
 
 *The Internet's Own Boy* (tradução literal: *O Menino da Internet*) conta a história de Aaron Swartz (muito conhecido por ser co-fundador do site Reddit). Aborda desde seu nascimento e como era uma criança brilhante até sua pós-morte e a forma de como isso mexeu na vida de pessoas a sua volta e até mesmo de outros tantos interessados em correntes ideológicas, como conhecimento livre.
 
@@ -79,8 +79,8 @@ Até mais ver, pessoal!
 [1]: https://github.com/aaronsw/watchdog
 [2]: http://www.aaronsw.com/
 [3]: http://www.segurancalegal.com/2015/12/episodio-90-hacktivismo.html
-[4]: {{ site.url }}{{ site.baseurl }}casts/
-[5]: {{ site.url }}{{ site.baseurl }}books/chefao-kevin-poulsen/
+[4]: {{ site.url }}/{{ site.baseurl }}casts/
+[5]: {{ site.url }}/{{ site.baseurl }}books/chefao-kevin-poulsen/
 [6]: https://www.documentcloud.org/documents/217115-20110719-schwartz.html
 [7]: http://www.rememberaaronsw.com/memories/
 ~~~
@@ -89,7 +89,7 @@ Até mais ver, pessoal!
 [1]: https://github.com/aaronsw/watchdog
 [2]: http://www.aaronsw.com/
 [3]: http://www.segurancalegal.com/2015/12/episodio-90-hacktivismo.html
-[4]: {{ site.url }}{{ site.baseurl }}casts/
-[5]: {{ site.url }}{{ site.baseurl }}books/chefao-kevin-poulsen/
+[4]: {{ site.url }}/{{ site.baseurl }}casts/
+[5]: {{ site.url }}/{{ site.baseurl }}books/chefao-kevin-poulsen/
 [6]: https://www.documentcloud.org/documents/217115-20110719-schwartz.html
 [7]: http://www.rememberaaronsw.com/memories/

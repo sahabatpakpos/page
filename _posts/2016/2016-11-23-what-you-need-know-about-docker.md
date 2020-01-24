@@ -10,7 +10,7 @@ tags:
 ---
 
 <div style="text-align: center;">
-	<img src="{{ site.baseurl }}images/posts/2016/27.jpg" style="width:50%;" />
+	<img src="/{{ site.baseurl }}images/posts/2016/27.jpg" style="width:50%;" />
 </div>
 <br />
 
@@ -27,13 +27,13 @@ Digo isso pois foi justamente o que fiz. Alguns produtos Docker que ele trata eu
 ## Links
 
 ~~~
-[0]: {{ site.baseurl }}category/#docker
-[1]: {{ site.baseurl }}books/docker-para-desenvolvedores
+[0]: /{{ site.baseurl }}category/#docker
+[1]: /{{ site.baseurl }}books/docker-para-desenvolvedores
 [2]: https://packtpub.com
 [3]: https://packtpub.com/packt/offers/free-learning
 ~~~
 
-[0]: {{ site.baseurl }}category/#docker
-[1]: {{ site.baseurl }}books/docker-para-desenvolvedores
+[0]: /{{ site.baseurl }}category/#docker
+[1]: /{{ site.baseurl }}books/docker-para-desenvolvedores
 [2]: https://packtpub.com
 [3]: https://packtpub.com/packt/offers/free-learning

@@ -46,7 +46,7 @@ E se vale *linkar* algo sobre *copyright*, é importante também mostrar sobre *
 ## Links
 
 ~~~
-[0]: {{ site.url }}{{ site.baseurl }}category/#direitos autorais
+[0]: {{ site.url }}/{{ site.baseurl }}category/#direitos autorais
 [1]: http://g1.globo.com/ac/acre/noticia/2015/10/no-ac-donos-de-sites-e-blogs-devem-pagar-r-610-por-regularizacao.html
 [2]: http://www.administradores.com.br/noticias/cotidiano/justica-do-acre-quer-que-blogueiros-tenham-registro-em-cartorio/106351/
 [3]: http://www.goodcopybadcopy.net/
@@ -56,7 +56,7 @@ E se vale *linkar* algo sobre *copyright*, é importante também mostrar sobre *
 [7]: https://copyleft.org/
 ~~~
 
-[0]: {{ site.url }}{{ site.baseurl }}category/#direitos autorais
+[0]: {{ site.url }}/{{ site.baseurl }}category/#direitos autorais
 [1]: http://g1.globo.com/ac/acre/noticia/2015/10/no-ac-donos-de-sites-e-blogs-devem-pagar-r-610-por-regularizacao.html
 [2]: http://www.administradores.com.br/noticias/cotidiano/justica-do-acre-quer-que-blogueiros-tenham-registro-em-cartorio/106351/
 [3]: http://www.goodcopybadcopy.net/

@@ -27,9 +27,9 @@ Muitas pessoas reclamando, achando ruim essa venda, como diz em um [texto curto 
 
 E claro, os memes, como não poderia faltar:
 
-![Meme01]({{ site.baseurl }}images/posts/2018/01.jpeg)
-![Meme01]({{ site.baseurl }}images/posts/2018/02.jpg)
-![Meme01]({{ site.baseurl }}images/posts/2018/03.jpg)
+![Meme01](/{{ site.baseurl }}images/posts/2018/01.jpeg)
+![Meme01](/{{ site.baseurl }}images/posts/2018/02.jpg)
+![Meme01](/{{ site.baseurl }}images/posts/2018/03.jpg)
 
 ## O que fazer?
 
@@ -144,12 +144,12 @@ No mais, obrigado a todos por terem lido. Qualquer coisa, interage aí, só mand
 
 ~~~
 
-[0]: {{ site.url }}{{ site.baseurl }}posts/consequencias-bloqueio-whatsapp/
+[0]: {{ site.url }}/{{ site.baseurl }}posts/consequencias-bloqueio-whatsapp/
 [1]: https://blog.github.com/2018-06-04-github-microsoft/
 [2]: https://news.microsoft.com/2018/06/04/microsoft-to-acquire-github-for-7-5-billion/
 [3]: https://medium.com/swlh/please-dont-do-it-github-5890eb72d12c
 [4]: https://about.gitlab.com/2018/06/03/microsoft-acquires-github/
-[5]: {{ site.url }}{{ site.baseurl }}tips/blog-no-gitlab-pages/
+[5]: {{ site.url }}/{{ site.baseurl }}tips/blog-no-gitlab-pages/
 [6]: https://gitlab.com/users/sign_in
 [7]: https://about.gitlab.com/2016/05/23/gitlab-container-registry/
 [8]: https://about.gitlab.com/features/gitlab-ci-cd/

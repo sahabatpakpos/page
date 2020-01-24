@@ -15,7 +15,7 @@ tags:
     - livros
 ---
 
-![Capa da revista "Manual do Hacker ed. 01"]({{ site.baseurl }}images/posts/2016/05.jpg)
+![Capa da revista "Manual do Hacker ed. 01"](/{{ site.baseurl }}images/posts/2016/05.jpg)
 
 ## Aquisição
 
@@ -47,11 +47,11 @@ E mais um ponto negativo para citar aqui é a questão da forma de escrita. Muit
 
 Bem, você deve ter percebido que já dei uma certa cutucada a respeito da tradução no parágrafo acima. Pois bem, tradução pior é possível? Claro! Melhor também? Bem mais fácil isso! Eu que não sou um expert em *ingrêis* podia ver claramente os erros e imaginar como era determinadas partes na versão original e portanto, como seria a tradução correta. 
 
-![Bach?]({{ site.baseurl }}images/posts/2016/06.jpg)
+![Bach?](/{{ site.baseurl }}images/posts/2016/06.jpg)
 
 Além de partes com tradução errada havia partes que simplesmente esqueceram de traduzir. Pensei algumas vezes em mandar um e-mail para ver sobre essa vaga de revisor em aberto, mas desisti rs'.
 
-![Bem, isso não é do código, acredito.]({{ site.baseurl }}images/posts/2016/07.jpg)
+![Bem, isso não é do código, acredito.](/{{ site.baseurl }}images/posts/2016/07.jpg)
 
 > Essas ai foram partes que no momento do post pensei "poxa, ver se acho alguma aqui rápido para mostrar". Imagina se fosse garimpar mesmo.
 
@@ -85,9 +85,9 @@ Além disso faltava algo que acho muito bacana que são as referências. Não cu
 ~~~
 [0]: http://www.ubuntu.com/cloud/juju
 [1]: https://www.enlightenment.org/about-terminology
-[2]: {{ site.url }}{{ site.baseurl }}zines/
+[2]: {{ site.url }}/{{ site.baseurl }}zines/
 ~~~
 
 [0]: http://www.ubuntu.com/cloud/juju
 [1]: https://www.enlightenment.org/about-terminology
-[2]: {{ site.url }}{{ site.baseurl }}zines/
+[2]: {{ site.url }}/{{ site.baseurl }}zines/

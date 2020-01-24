@@ -127,9 +127,9 @@ Bem, como mostrei, é uma dica rápida. Então, até mais ver!
 ## Links
 
 ~~~
-[0]: {{ site.url }}{{ site.baseurl }}blog/weechat/
-[1]: {{ site.url }}{{ site.baseurl }}category/#archlinux
+[0]: {{ site.url }}/{{ site.baseurl }}blog/weechat/
+[1]: {{ site.url }}/{{ site.baseurl }}category/#archlinux
 ~~~
 
-[0]: {{ site.url }}{{ site.baseurl }}blog/weechat/
-[1]: {{ site.url }}{{ site.baseurl }}category/#archlinux
+[0]: {{ site.url }}/{{ site.baseurl }}blog/weechat/
+[1]: {{ site.url }}/{{ site.baseurl }}category/#archlinux

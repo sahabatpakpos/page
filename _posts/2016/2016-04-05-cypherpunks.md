@@ -11,7 +11,7 @@ tags:
 ---
 
 <div style="text-align: center;">
-	<img src="{{ site.baseurl }}images/posts/2016/16.jpg" style="width:50%;" />
+	<img src="/{{ site.baseurl }}images/posts/2016/16.jpg" style="width:50%;" />
 </div>
 <br />
 
@@ -49,15 +49,15 @@ Até mais pessoa, e mantenham-se seguros! ;)
 ~~~
 [0]: https://corvolinopunk.wordpress.com/
 [1]: https://telegram.me/hellomyfriendss/77
-[2]: {{ site.baseurl }}books/the-snowden-files/
-[3]: {{ site.baseurl }}category/#criptografia
-[4]: {{ site.baseurl }}category/#cypherpunks
-[5]: {{ site.baseurl }}category/#espionagem
+[2]: /{{ site.baseurl }}books/the-snowden-files/
+[3]: /{{ site.baseurl }}category/#criptografia
+[4]: /{{ site.baseurl }}category/#cypherpunks
+[5]: /{{ site.baseurl }}category/#espionagem
 ~~~
 
 [0]: https://corvolinopunk.wordpress.com/
 [1]: https://telegram.me/hellomyfriendss/77
-[2]: {{ site.baseurl }}books/the-snowden-files/
-[3]: {{ site.baseurl }}category/#criptografia
-[4]: {{ site.baseurl }}category/#cypherpunks
-[5]: {{ site.baseurl }}category/#espionagem
+[2]: /{{ site.baseurl }}books/the-snowden-files/
+[3]: /{{ site.baseurl }}category/#criptografia
+[4]: /{{ site.baseurl }}category/#cypherpunks
+[5]: /{{ site.baseurl }}category/#espionagem

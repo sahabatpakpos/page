@@ -12,7 +12,7 @@ tags:
 ---
 
 <div style="text-align: center;">
-	<img src="{{ site.baseurl }}images/posts/2016/13.png" style="width:50%;" />
+	<img src="/{{ site.baseurl }}images/posts/2016/13.png" style="width:50%;" />
 </div>
 <br />
 
@@ -44,19 +44,19 @@ Ahh!! Antes que me esqueça: assim como deixei recomendação noutro [Book Revie
 ## Links
 
 ~~~
-[0]: {{ site.url }}{{ site.baseurl }}category#git
-[1]: {{ site.url }}{{ site.baseurl }}books/github-essentials/
-[2]: {{ site.url }}{{ site.baseurl }}talks/git-github-usa-logo-pow/
-[3]: {{ site.url }}{{ site.baseurl }}blog/contribuindo-projetos-open-source/
-[4]: {{ site.url }}{{ site.baseurl }}category#livros
+[0]: {{ site.url }}/{{ site.baseurl }}category#git
+[1]: {{ site.url }}/{{ site.baseurl }}books/github-essentials/
+[2]: {{ site.url }}/{{ site.baseurl }}talks/git-github-usa-logo-pow/
+[3]: {{ site.url }}/{{ site.baseurl }}blog/contribuindo-projetos-open-source/
+[4]: {{ site.url }}/{{ site.baseurl }}category#livros
 [5]: https://fernandonogueiracosta.wordpress.com/2010/12/24/como-ler-livros-o-guia-classico-para-a-leitura-inteligente/
 [6]: https://fernandonogueiracosta.files.wordpress.com/2010/12/como-ler-livros.pdf
 ~~~
 
-[0]: {{ site.url }}{{ site.baseurl }}category#git
-[1]: {{ site.url }}{{ site.baseurl }}books/github-essentials/
-[2]: {{ site.url }}{{ site.baseurl }}talks/git-github-usa-logo-pow/
-[3]: {{ site.url }}{{ site.baseurl }}blog/contribuindo-projetos-open-source/
-[4]: {{ site.url }}{{ site.baseurl }}category#livros
+[0]: {{ site.url }}/{{ site.baseurl }}category#git
+[1]: {{ site.url }}/{{ site.baseurl }}books/github-essentials/
+[2]: {{ site.url }}/{{ site.baseurl }}talks/git-github-usa-logo-pow/
+[3]: {{ site.url }}/{{ site.baseurl }}blog/contribuindo-projetos-open-source/
+[4]: {{ site.url }}/{{ site.baseurl }}category#livros
 [5]: https://fernandonogueiracosta.wordpress.com/2010/12/24/como-ler-livros-o-guia-classico-para-a-leitura-inteligente/
 [6]: https://fernandonogueiracosta.files.wordpress.com/2010/12/como-ler-livros.pdf

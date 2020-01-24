@@ -21,7 +21,7 @@ Inclusive, sobre essa disputa entre os dois, pode ficar interessante ver a pági
 
 Olha que imagem interessante:
 
-!["The more I read the cables, the more I came to the conclusion that this was the type of information that should become public."]({{ site.baseurl }}images/posts/2016/17.png)
+!["The more I read the cables, the more I came to the conclusion that this was the type of information that should become public."](/{{ site.baseurl }}images/posts/2016/17.png)
 
 > Bem, esse documentário fala do famoso caso "cablegate", que houve o envolvimento da Chelsea Manning. É importante falar que essa foi a única delatora do Wikileaks que foi descoberta e condenada. Mas isso, como mostra no documentário, aconteceu apenas porque ela tentou, sem sucesso, fazer o vazamento com dois grandes jornais e por ai que foi descoberta.
 
@@ -32,14 +32,14 @@ Até mais ver!!
 ## Links
 
 ~~~
-[0]: {{ site.baseurl }}movies/the-fifth-estate/
+[0]: /{{ site.baseurl }}movies/the-fifth-estate/
 [1]: http://www.imdb.com/title/tt3169780/
 [2]: http://www.imdb.com/title/tt1837703/
 [3]: https://wikileaks.org/Watch-MEDIASTAN.html
 [4]: http://download.cabledrum.net/mediastan/
 ~~~
 
-[0]: {{ site.baseurl }}movies/the-fifth-estate/
+[0]: /{{ site.baseurl }}movies/the-fifth-estate/
 [1]: http://www.imdb.com/title/tt3169780/
 [2]: http://www.imdb.com/title/tt1837703/
 [3]: https://wikileaks.org/Watch-MEDIASTAN.html

@@ -38,9 +38,9 @@ A apresentação pode ser acessada [clicando aqui \[2\]][2].
 ~~~
 [0]: http://raulhc.cc/Agenda.2016-03-06-PyLadiesMeetup
 [1]: http://raulhc.cc
-[2]: {{ site.url }}{{ site.baseurl }}talks/git-github-usa-logo-pow/apresentacao.html
+[2]: {{ site.url }}/{{ site.baseurl }}talks/git-github-usa-logo-pow/apresentacao.html
 ~~~
 
 [0]: http://raulhc.cc/Agenda.2016-03-06-PyLadiesMeetup
 [1]: http://raulhc.cc
-[2]: {{ site.baseurl }}talks/git-github-usa-logo-pow/apresentacao.html
+[2]: /{{ site.baseurl }}talks/git-github-usa-logo-pow/apresentacao.html

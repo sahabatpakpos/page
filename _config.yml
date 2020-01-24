@@ -1,12 +1,10 @@
 # Site settings
-title: "unch"
+title: "unch⨂pw"
 bye_message: "Thx!"
 baseurl: "/"
 url: "https://unch.pw"
-disqus: unch
-
 # Header settings
-nick: "Sahabat_Pak_Pos"
+nick: "「unch⨂pw」"
 mail:
     domain: "gmail"
     ext: "com"

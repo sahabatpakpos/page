@@ -279,7 +279,7 @@ Vlw, pessoal! Até a próxima!
 ## Links
 
 ~~~
-[0]: {{ site.url }}{{ site.baseurl }}blog/pos-instalacao-archlinux/
+[0]: {{ site.url }}/{{ site.baseurl }}blog/pos-instalacao-archlinux/
 [1]: http://hmarco.org/bugs/CVE-2015-8370-Grub2-authentication-bypass.html
 [2]: https://www.vivaolinux.com.br/dica/LVM-Logical-Volume-Manager
 [3]: https://www.vivaolinux.com.br/artigo/Entendendo-e-configurando-o-LVM-manualmente
@@ -290,7 +290,7 @@ Vlw, pessoal! Até a próxima!
 [8]: https://wiki.archlinux.org/index.php/Network_configuration_(Português)
 ~~~
 
-[0]: {{ site.url }}{{ site.baseurl }}blog/pos-instalacao-archlinux/
+[0]: {{ site.url }}/{{ site.baseurl }}blog/pos-instalacao-archlinux/
 [1]: http://hmarco.org/bugs/CVE-2015-8370-Grub2-authentication-bypass.html
 [2]: https://www.vivaolinux.com.br/dica/LVM-Logical-Volume-Manager
 [3]: https://www.vivaolinux.com.br/artigo/Entendendo-e-configurando-o-LVM-manualmente

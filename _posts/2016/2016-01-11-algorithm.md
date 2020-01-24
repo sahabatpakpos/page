@@ -40,7 +40,7 @@ Que é um dos princípios do que é dito como **ética hacker**. São eles:
 
 Há momentos em que parece se passar em algum [hackerspace \[3\]][3] (ou makerspace):
 
-![Cena em um possível hacker/maker space"]({{ site.baseurl }}images/posts/2016/01.jpg)
+![Cena em um possível hacker/maker space"](/{{ site.baseurl }}images/posts/2016/01.jpg)
 
 O que por se torna bem possível, já que se passa em San Francisco, lugar onde [há vários \[4\]][4] desses ambientes.
 
@@ -100,7 +100,7 @@ Caso tenha interesse de assistir a esse filme, não precisa se preocupar em proc
 [4]: https://wiki.hackerspaces.org/San_Francisco
 [5]: https://www.ted.com/talks/james_veitch_this_is_what_happens_when_you_reply_to_spam_email
 [6]: http://www.binarywolf.com/249/pringles_cantenna.htm
-[7]: {{ site.url }}{{ site.baseurl }}books/the-snowden-files/
+[7]: {{ site.url }}/{{ site.baseurl }}books/the-snowden-files/
 ~~~
 
 [0]: http://www.phrack.org/issues/7/3.html#article
@@ -110,4 +110,4 @@ Caso tenha interesse de assistir a esse filme, não precisa se preocupar em proc
 [4]: https://wiki.hackerspaces.org/San_Francisco
 [5]: https://www.ted.com/talks/james_veitch_this_is_what_happens_when_you_reply_to_spam_email
 [6]: http://www.binarywolf.com/249/pringles_cantenna.htm
-[7]: {{ site.url }}{{ site.baseurl }}books/the-snowden-files/
+[7]: {{ site.url }}/{{ site.baseurl }}books/the-snowden-files/

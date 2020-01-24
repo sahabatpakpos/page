@@ -30,13 +30,13 @@ Ou ainda assistir a performance da banda GNU/Stallmans:
 # Links
 
 ~~~
-[0]: {{ site.baseurl }}category#linux
+[0]: /{{ site.baseurl }}category#linux
 [1]: https://www.gnu.org/licenses/copyleft.pt-br.html
 [2]: https://www.gnu.org/software/hurd/
 [3]: https://www.gnu.org/music/free-software-song.html
 ~~~
 
-[0]: {{ site.baseurl }}category#linux
+[0]: /{{ site.baseurl }}category#linux
 [1]: https://www.gnu.org/licenses/copyleft.pt-br.html
 [2]: https://www.gnu.org/software/hurd/
 [3]: https://www.gnu.org/music/free-software-song.html

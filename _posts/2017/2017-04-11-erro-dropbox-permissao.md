@@ -11,7 +11,7 @@ tags:
 ---
 
 <div style="text-align: center;">
-    <img src="{{ site.baseurl }}images/posts/2017/03.png" style="width:50%;" />
+    <img src="/{{ site.baseurl }}images/posts/2017/03.png" style="width:50%;" />
 </div>
 
 Bem, esse erro aconteceu comigo um tempão atrás. Fucei muito por ai na internet e nada de achar uma solução. Todos os posts relacionados a isso que encontrava era sempre, de fato, problemas com permissões, mas no meu caso não tinha nada disso. Verificava sempre os logs, mas nada.
@@ -23,7 +23,7 @@ Parei para refazer meus passos e analisar cada consequência até que cheguei a 
 ## Links
 
 ~~~
-[0]: {{ site.url }}{{ site.baseurl }}blog/redimensionar-particoes-lvm/
+[0]: {{ site.url }}/{{ site.baseurl }}blog/redimensionar-particoes-lvm/
 ~~~
 
-[0]: {{ site.baseurl }}blog/redimensionar-particoes-lvm/
+[0]: /{{ site.baseurl }}blog/redimensionar-particoes-lvm/

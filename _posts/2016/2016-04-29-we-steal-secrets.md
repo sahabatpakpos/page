@@ -9,7 +9,7 @@ tags:
     - documentario
 ---
 
-![You talk of times of peace for all, and them prepare for war.]({{ site.baseurl }}images/posts/2016/18.png){:title="You talk of times of peace for all, and them prepare for war."}
+![You talk of times of peace for all, and them prepare for war.](/{{ site.baseurl }}images/posts/2016/18.png){:title="You talk of times of peace for all, and them prepare for war."}
 
 E é com essa imagem de uma famosa frase que começo o post do hoje! Veja só, recentemente postei sobre duas obras falando sobre o Wikileaks: o filme [The Fifth Estate \[0\]][0] e o documentário [Mediastan \[1\]][1]. Agora, vamos para mais uma! Olha o trailer dele documentário aqui:
 
@@ -40,11 +40,11 @@ Bem, por hoje, é isso, pessoal! Até mais!
 # Links
 
 ~~~
-[0]: {{ site.baseurl }}movies/the-fifth-estate/
-[1]: {{ site.baseurl }}movies/mediastan/
-[2]: {{ site.baseurl }}category#cypherpunks
+[0]: /{{ site.baseurl }}movies/the-fifth-estate/
+[1]: /{{ site.baseurl }}movies/mediastan/
+[2]: /{{ site.baseurl }}category#cypherpunks
 ~~~
 
-[0]: {{ site.baseurl }}movies/the-fifth-estate/
-[1]: {{ site.baseurl }}movies/mediastan/
-[2]: {{ site.baseurl }}category#cypherpunks
+[0]: /{{ site.baseurl }}movies/the-fifth-estate/
+[1]: /{{ site.baseurl }}movies/mediastan/
+[2]: /{{ site.baseurl }}category#cypherpunks

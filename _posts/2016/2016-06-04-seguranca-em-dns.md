@@ -38,13 +38,13 @@ Você pode acessar o slide em PDF dessa palestra [clicando aqui \[2\]][2] ou ind
 ## Links
 
 ~~~
-[0]: {{ site.baseurl }}talks/dns-o-que-voce-precisa-saber/
+[0]: /{{ site.baseurl }}talks/dns-o-que-voce-precisa-saber/
 [1]: http://roadsec.com.br/aracaju2016/
 [2]: https://lampiaosec.github.io/talks/seguranca-em-dns-entenda-as-principais-brechas.pdf
 [3]: https://lampiaosec.github.io/#talks
 ~~~
 
-[0]: {{ site.baseurl }}talks/dns-o-que-voce-precisa-saber/
+[0]: /{{ site.baseurl }}talks/dns-o-que-voce-precisa-saber/
 [1]: http://roadsec.com.br/aracaju2016/
 [2]: https://lampiaosec.github.io/talks/seguranca-em-dns-entenda-as-principais-brechas.pdf
 [3]: https://lampiaosec.github.io/#talks

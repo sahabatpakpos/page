@@ -39,11 +39,11 @@ E já foi! Já fui também, até mais! :P
 ## Links
 
 ~~~
-[0]: {{ site.url }}{{ site.baseurl }}category/#cli lindo!
+[0]: {{ site.url }}/{{ site.baseurl }}category/#cli lindo!
 [1]: https://meocloud.pt
 [2]: https://www.dropbox.com/install-linux
 ~~~
 
-[0]: {{ site.baseurl }}category/#cli lindo!
+[0]: /{{ site.baseurl }}category/#cli lindo!
 [1]: https://meocloud.pt
 [2]: https://www.dropbox.com/install-linux

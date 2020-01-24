@@ -23,7 +23,7 @@ Até a próxima!
 ## Links
 
 ~~~
-[0]: {{ site.baseurl }}movies/downloaded-napster/
+[0]: /{{ site.baseurl }}movies/downloaded-napster/
 ~~~
 
-[0]: {{ site.baseurl }}movies/downloaded-napster/
+[0]: /{{ site.baseurl }}movies/downloaded-napster/

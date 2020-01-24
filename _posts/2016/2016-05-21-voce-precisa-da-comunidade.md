@@ -36,9 +36,9 @@ Acesse a apresentação [clicando aqui \[2\]][2].
 ~~~
 [0]: https://github.com/phpba/phpeetups/blob/gh-pages/eventos_passados.md#2-phpeetup
 [1]: http://phpba.com.br
-[2]: {{ site.baseurl }}talks/voce-precisa-da-comunidade/apresentacao.html
+[2]: /{{ site.baseurl }}talks/voce-precisa-da-comunidade/apresentacao.html
 ~~~
 
 [0]: https://github.com/phpba/phpeetups/blob/gh-pages/eventos_passados.md#2-phpeetup
 [1]: http://phpba.com.br
-[2]: {{ site.baseurl }}talks/voce-precisa-da-comunidade/apresentacao.html
+[2]: /{{ site.baseurl }}talks/voce-precisa-da-comunidade/apresentacao.html

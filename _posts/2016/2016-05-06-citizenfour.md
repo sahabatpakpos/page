@@ -44,19 +44,19 @@ Bom, no mais, até a vista, pessoal! E lembrem-se: só privacidade salva :D
 # Links
 
 ~~~
-[0]: {{ site.baseurl }}books/the-snowden-files/
+[0]: /{{ site.baseurl }}books/the-snowden-files/
 [1]: https://thoughtmaybe.com/citizenfour
 [2]: http://legendas.tv/busca/Citizenfour/36253
 [3]: http://www.segurancalegal.com/2015/12/episodio-90-hacktivismo.html
-[4]: {{ site.baseurl }}blog/gnupg/
+[4]: /{{ site.baseurl }}blog/gnupg/
 [5]: https://lampiaosec.github.io/posts/gnupg/
 [6]: https://lampiaosec.github.io
 ~~~
 
-[0]: {{ site.baseurl }}books/the-snowden-files/
+[0]: /{{ site.baseurl }}books/the-snowden-files/
 [1]: https://thoughtmaybe.com/citizenfour
 [2]: http://legendas.tv/busca/Citizenfour/36253
 [3]: http://www.segurancalegal.com/2015/12/episodio-90-hacktivismo.html
-[4]: {{ site.baseurl }}blog/gnupg/
+[4]: /{{ site.baseurl }}blog/gnupg/
 [5]: https://lampiaosec.github.io/posts/gnupg/
 [6]: https://lampiaosec.github.io

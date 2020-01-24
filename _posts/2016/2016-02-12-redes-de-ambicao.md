@@ -10,7 +10,7 @@ tags:
     - seguranca
 ---
 
-![Capa do filme]({{ site.baseurl }}images/posts/2016/11.jpg)
+![Capa do filme](/{{ site.baseurl }}images/posts/2016/11.jpg)
 
 ## Análise Geral
 
@@ -44,7 +44,7 @@ O negócio trouxe tão bons resultados que se falam em ter uma continuação. **
 
 ## Análise Técnica
 
-![Print de ataque à wifi]({{ site.baseurl }}images/posts/2016/12.png)
+![Print de ataque à wifi](/{{ site.baseurl }}images/posts/2016/12.png)
 
 Passada a análise geral do filme (que é algo que não costumo fazer por aqui), vamos para a análise técnica. Basicamente falando, não há do que reclamar. Tiveram partes fantasiosas? Tiveram. Afinal, é *Hollywood* (hehe :P) mas pontos muito bacanas a respeito de segurança e criptografia foram abordados.
 
@@ -78,7 +78,7 @@ Entrei em contato com a galera do [aircrack-ng \[6\]][6] e enviei [esse screensh
 [4]: https://www.facebook.com/redesdeambicaofilme
 [5]: https://www.youtube.com/user/redesdeambicaofilme/
 [6]: http://www.aircrack-ng.org/
-[7]: {{ site.url }}{{ site.baseurl }}images/posts/2016/12.png
+[7]: {{ site.url }}/{{ site.baseurl }}images/posts/2016/12.png
 [8]: http://www.aircrack-ng.org/movies.html
 ~~~
 
@@ -89,5 +89,5 @@ Entrei em contato com a galera do [aircrack-ng \[6\]][6] e enviei [esse screensh
 [4]: https://www.facebook.com/redesdeambicaofilme
 [5]: https://www.youtube.com/user/redesdeambicaofilme/
 [6]: http://www.aircrack-ng.org/
-[7]: {{ site.url }}{{ site.baseurl }}images/posts/2016/12.png
+[7]: {{ site.url }}/{{ site.baseurl }}images/posts/2016/12.png
 [8]: http://www.aircrack-ng.org/movies.html
