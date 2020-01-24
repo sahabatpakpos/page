@@ -1,10 +1,10 @@
 # Site settings
-title: "unch⨂pw"
-bye_message: "Thx!"
+title: "unch.pw"
+bye_message: "Common sense isn't actually common!"
 baseurl: "/"
 url: "https://unch.pw"
 # Header settings
-nick: "「unch⨂pw」"
+nick: "unch.pw"
 mail:
     domain: "gmail"
     ext: "com"
