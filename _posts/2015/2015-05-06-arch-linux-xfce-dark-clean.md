@@ -14,7 +14,7 @@ Uma personalização dark e limpa no Arch Linux :D
 
 ![Print]({{ site.baseurl }}images/posts/2015/01.png)
 
-Veja o <a title="ScreenShot" href="{{ site.baseurl }}images/posts/2015/01.png" target="_blank">print</a> maior e em nova aba.
+Veja o <a title="ScreenShot" href="/{{ site.baseurl }}images/posts/2015/01.png" target="_blank">print</a> maior e em nova aba.
 
 Wallpaper (Ryuk - Death Note): http://alpha.wallhaven.cc/wallpaper/101885 ou [aqui][wallpaper]
 

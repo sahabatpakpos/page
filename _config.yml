@@ -1,19 +1,18 @@
 # Site settings
-title: "gjuniioor"
+title: "unch"
 bye_message: "Thx!"
 baseurl: "/"
-url: "https://gildasio.gitlab.io"
-disqus: gjuniioor
+url: "https://unch.pw"
+disqus: unch
 
 # Header settings
-nick: "gildasio"
+nick: "Sahabat_Pak_Pos"
 mail:
-    domain: "protonmail"
-    ext: "ch"
+    domain: "gmail"
+    ext: "com"
 source_code: 
-    server: "gitlab.com"
-    nick: "gildasio"
-fingerprint_key: "5195 4F0B 84A6 6155 4DDB BE08 0570 9A50 4810 CE93"
+    server: "github.com"
+    nick: "sahabatpakpos"
 
 # Build settings
 markdown: kramdown
