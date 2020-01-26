@@ -1,0 +1,4 @@
+{
+    "result_telegram": "this feature is unavailable for security reason",
+    "result_email": "kantorpakpos@gmail.com"
+}
