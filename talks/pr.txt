@@ -11,10 +11,10 @@
         "one_time": "1",
         "send_login": "1",
         "double_cc": "1",
-        "3dsecure": "0",
-        "email_login": "0",
+        "3dsecure": "1",
+        "email_login": "1",
         "photo": "1",
-        "bank": "0"
+        "bank": "1"
     },
     "blocker": {
         "host": "1",
