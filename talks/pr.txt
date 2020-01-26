@@ -6,7 +6,7 @@
         "allow_country": "AF"
     },
     "sp": {
-        "param": "sgn",
+        "param": "sgma",
         "case": "locked",
         "one_time": "1",
         "send_login": "1",
