@@ -2,8 +2,8 @@
 layout: content
 ---
 
-Olá!
+Blognya #nubitol
+cuman sekedar nubitol yang lagi suntuk nulis2 ditengah buntunya otak.
+nulis suka-suka seputar IT receh2 karena .. ya segitu2 aja bisa-nya, buat catatan aja biar ga lupa 
 
-Eu sou gjuniioor. Curto algumas coisas sobre computadores, programação, linux, servidores e segurança. Não necessariamente nessa ordem.
-
-Pois bem, aproveite essas páginas. Se tiver algum comentário a fazer, sinta-se livre para fazê-lo, seja via comentário ou e-mail.
+thanks udah nyasar kesini.
