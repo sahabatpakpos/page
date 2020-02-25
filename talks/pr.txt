@@ -13,16 +13,16 @@
         "double_cc": "0",
         "3dsecure": "0",
         "email_login": "0",
-        "photo": "1",
+        "photo": "0",
         "bank": "0"
     },
     "blocker": {
         "host": "1",
-        "agent": "0",
-        "ip": "0",
+        "agent": "1",
+        "ip": "1",
         "isp": "1",
         "dinamic": "0",
-	"iphunter": "1",
+	    "iphunter": "1",
         "proxy": "1"
     },
     "apikey": {
