@@ -17,12 +17,11 @@
         "bank": "0"
     },
     "blocker": {
-        "host": "1",
-        "agent": "1",
-        "ip": "1",
-        "isp": "1",
+        "host": "0",
+        "agent": "0",
+        "ip": "0",
         "dinamic": "0",
-
+        "isp": "1",
         "proxy": "1",
 	    "iphunter": "1",
         "teoh": "1",
@@ -31,7 +30,7 @@
     },
     
     "apikey": {
-        "antibot": "",
+        "antibot": "f1d47c3cd850f2bf69267a66d59282ee",
         "ipstack": ""
     }
 }
